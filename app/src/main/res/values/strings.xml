@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferenced-kotlin</string>
+    <string name="first_name">first name</string>
+</resources>
